@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovaWallet.Presentation", "NovaWallet.Presentation\NovaWallet.Presentation.csproj", "{57FEF980-20EC-4FE6-A5B6-A0A006CB2096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovaWallet.Application", "NovaWallet.Application\NovaWallet.Application.csproj", "{1D081392-35B1-430C-8675-63299DA3B41B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovaWallet.Domain", "NovaWallet.Domain\NovaWallet.Domain.csproj", "{F80A9DF4-DCDC-498E-90EF-C965EFCEE797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovaWallet.Infrastructure", "NovaWallet.Infrastructure\NovaWallet.Infrastructure.csproj", "{8E7ED4E0-FBBF-4493-882C-335E0CAF8137}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovaWallet.Tests", "NovaWallet.Tests\NovaWallet.Tests.csproj", "{746C55D4-157F-4911-8ACE-43DEDDFFF51E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57FEF980-20EC-4FE6-A5B6-A0A006CB2096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FEF980-20EC-4FE6-A5B6-A0A006CB2096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FEF980-20EC-4FE6-A5B6-A0A006CB2096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FEF980-20EC-4FE6-A5B6-A0A006CB2096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D081392-35B1-430C-8675-63299DA3B41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D081392-35B1-430C-8675-63299DA3B41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D081392-35B1-430C-8675-63299DA3B41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D081392-35B1-430C-8675-63299DA3B41B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80A9DF4-DCDC-498E-90EF-C965EFCEE797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80A9DF4-DCDC-498E-90EF-C965EFCEE797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80A9DF4-DCDC-498E-90EF-C965EFCEE797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80A9DF4-DCDC-498E-90EF-C965EFCEE797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7ED4E0-FBBF-4493-882C-335E0CAF8137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7ED4E0-FBBF-4493-882C-335E0CAF8137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7ED4E0-FBBF-4493-882C-335E0CAF8137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7ED4E0-FBBF-4493-882C-335E0CAF8137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746C55D4-157F-4911-8ACE-43DEDDFFF51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746C55D4-157F-4911-8ACE-43DEDDFFF51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746C55D4-157F-4911-8ACE-43DEDDFFF51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746C55D4-157F-4911-8ACE-43DEDDFFF51E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0A1A520-46AD-4761-8B7D-3B6F47A17E6F}
+	EndGlobalSection
+EndGlobal

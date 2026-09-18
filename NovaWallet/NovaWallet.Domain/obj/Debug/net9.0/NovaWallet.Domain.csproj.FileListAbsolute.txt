@@ -1,0 +1,12 @@
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Domain\bin\Debug\net9.0\NovaWallet.Domain.deps.json
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Domain\bin\Debug\net9.0\NovaWallet.Domain.dll
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Domain\bin\Debug\net9.0\NovaWallet.Domain.pdb
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Domain\obj\Debug\net9.0\NovaWallet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Domain\obj\Debug\net9.0\NovaWallet.Domain.AssemblyInfoInputs.cache
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Domain\obj\Debug\net9.0\NovaWallet.Domain.AssemblyInfo.cs
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Domain\obj\Debug\net9.0\NovaWallet.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Domain\obj\Debug\net9.0\NovaWallet.Domain.sourcelink.json
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Domain\obj\Debug\net9.0\NovaWallet.Domain.dll
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Domain\obj\Debug\net9.0\refint\NovaWallet.Domain.dll
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Domain\obj\Debug\net9.0\NovaWallet.Domain.pdb
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Domain\obj\Debug\net9.0\ref\NovaWallet.Domain.dll
