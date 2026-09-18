@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Nova\\NovaWallet\\NovaWallet.Domain\\NovaWallet.Domain.csproj": {}
+    "C:\\Users\\HP\\Desktop\\NovaWallet-Ledger-Service\\NovaWallet\\NovaWallet.Domain\\NovaWallet.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Nova\\NovaWallet\\NovaWallet.Domain\\NovaWallet.Domain.csproj": {
+    "C:\\Users\\HP\\Desktop\\NovaWallet-Ledger-Service\\NovaWallet\\NovaWallet.Domain\\NovaWallet.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Nova\\NovaWallet\\NovaWallet.Domain\\NovaWallet.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\NovaWallet-Ledger-Service\\NovaWallet\\NovaWallet.Domain\\NovaWallet.Domain.csproj",
         "projectName": "NovaWallet.Domain",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Nova\\NovaWallet\\NovaWallet.Domain\\NovaWallet.Domain.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\NovaWallet-Ledger-Service\\NovaWallet\\NovaWallet.Domain\\NovaWallet.Domain.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Nova\\NovaWallet\\NovaWallet.Domain\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\NovaWallet-Ledger-Service\\NovaWallet\\NovaWallet.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -48,8 +48,8 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",

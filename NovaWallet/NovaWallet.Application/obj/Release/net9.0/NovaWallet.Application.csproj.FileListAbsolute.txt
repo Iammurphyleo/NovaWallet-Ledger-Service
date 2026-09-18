@@ -1,0 +1,16 @@
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Application\bin\Release\net9.0\NovaWallet.Application.deps.json
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Application\bin\Release\net9.0\NovaWallet.Application.dll
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Application\bin\Release\net9.0\NovaWallet.Application.pdb
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Application\bin\Release\net9.0\NovaWallet.Domain.dll
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Application\bin\Release\net9.0\NovaWallet.Domain.pdb
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Application\obj\Release\net9.0\NovaWallet.Application.csproj.AssemblyReference.cache
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Application\obj\Release\net9.0\NovaWallet.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Application\obj\Release\net9.0\NovaWallet.Application.AssemblyInfoInputs.cache
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Application\obj\Release\net9.0\NovaWallet.Application.AssemblyInfo.cs
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Application\obj\Release\net9.0\NovaWallet.Application.csproj.CoreCompileInputs.cache
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Application\obj\Release\net9.0\NovaWallet.Application.sourcelink.json
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Application\obj\Release\net9.0\NovaWall.386B634A.Up2Date
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Application\obj\Release\net9.0\NovaWallet.Application.dll
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Application\obj\Release\net9.0\refint\NovaWallet.Application.dll
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Application\obj\Release\net9.0\NovaWallet.Application.pdb
+C:\Users\ayomi\OneDrive\Documents\NovaWallet-Ledger-Service\NovaWallet\NovaWallet.Application\obj\Release\net9.0\ref\NovaWallet.Application.dll

@@ -1,0 +1,6 @@
+{
+  "NovaWallet.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ayomi\\OneDrive\\Documents\\NovaWallet-Ledger-Service\\NovaWallet\\NovaWallet.Application",
+  "NovaWallet.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ayomi\\OneDrive\\Documents\\NovaWallet-Ledger-Service\\NovaWallet\\NovaWallet.Domain",
+  "NovaWallet.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ayomi\\OneDrive\\Documents\\NovaWallet-Ledger-Service\\NovaWallet\\NovaWallet.Infrastructure",
+  "NovaWallet.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ayomi\\OneDrive\\Documents\\NovaWallet-Ledger-Service\\NovaWallet\\NovaWallet.Presentation"
+}

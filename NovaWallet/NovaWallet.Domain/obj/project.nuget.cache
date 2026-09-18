@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JxVHn6sQ7Zo=",
+  "dgSpecHash": "E0Ze+78iu2c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\Nova\\NovaWallet\\NovaWallet.Domain\\NovaWallet.Domain.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\NovaWallet-Ledger-Service\\NovaWallet\\NovaWallet.Domain\\NovaWallet.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
